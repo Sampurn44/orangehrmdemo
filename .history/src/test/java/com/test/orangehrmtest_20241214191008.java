@@ -23,6 +23,8 @@ public class orangehrmtest {
    WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(20));
    
    @Test(priority=1)
+   ExtentReportUtils
+	
    public void logintest() throws InvalidFormatException, IOException {
    	 if (driver == null) { // Initialize only if driver is null
    		 System.setProperty("webdriver.chrome.driver",
