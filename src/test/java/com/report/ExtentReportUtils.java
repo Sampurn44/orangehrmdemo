@@ -15,7 +15,7 @@ import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.MediaEntityBuilder;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
-import com.orange.hrm.test.BaseTest;
+import com.test.pom.test.BaseTest;
 
 public class ExtentReportUtils {
 

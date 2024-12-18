@@ -15,7 +15,6 @@ import org.testng.annotations.Test;
 
 import com.utility.excelutility;
 
-import io.opentelemetry.api.logs.Logger;
 
 public class orangehrmtest {
 	ChromeDriver driver;
